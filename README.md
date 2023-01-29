@@ -31,8 +31,10 @@
 ![CHEESE!](./UI-Screenshots/new-user.png)
 
 
-## dark mode screenshot
-![CHEESE!](./UI-Screenshots/new-user-darkmode.png)
+## Dark mode screenshot
+### Dashboard on darkmode
 ![CHEESE!](./UI-Screenshots/dashboard-darkmode.png)
+### add new user on darkmode
+![CHEESE!](./UI-Screenshots/new-user-darkmode.png)
 
 
