@@ -32,7 +32,7 @@
 
 
 ## dark mode screenshot
-![CHEESE!](./UI-Screenshots\new-user-darkmode.png)
-![CHEESE!](./UI-Screenshots\dashboard-darkmode.png)
+![CHEESE!](./UI-Screenshots/new-user-darkmode.png)
+![CHEESE!](./UI-Screenshots/dashboard-darkmode.png)
 
 
