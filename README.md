@@ -1,6 +1,19 @@
-# Getting Started with Create React App
+# Important Information
 
 ### [Live Site Link](https://admin-dashboard-with-darkmode.netlify.app/) : https://admin-dashboard-with-darkmode.netlify.app/
+
+
+## Packages
+
+### [react-circular-progressbar](https://www.npmjs.com/package/react-circular-progressbar) `npm i react-circular-progressbar`
+### [recharts](https://recharts.org/en-US/) `npm install recharts`
+### [sass](https://sass-lang.com/) `npm install -g sass`
+### [react router dom](https://reactrouter.com/en/main) `npm install react-router-dom`
+### [react router dom](https://reactrouter.com/en/main) `npm install react-router-dom`
+### [material ui](https://mui.com/material-ui/getting-started/installation/) `npm install @mui/material @emotion/react @emotion/styled`
+### [material ui style components](https://mui.com/material-ui/getting-started/installation/) `npm install @mui/material @mui/styled-engine-sc styled-components`
+### [material ui icon](https://mui.com/material-ui/getting-started/installation/) `npm install @mui/icons-material`
+### [material ui datatable](https://mui.com/material-ui/getting-started/installation/) `npm install @mui/x-data-grid`
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
