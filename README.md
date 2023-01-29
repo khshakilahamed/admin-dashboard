@@ -22,17 +22,17 @@
 ## Screenshots
 
 ### dashboard
-![CHEESE!](./UI-Screenshots\darkboard.png)
+![CHEESE!](./UI-Screenshots/darkboard.png)
 
 ### Users
-![CHEESE!](./UI-Screenshots\all-users.png)
+![CHEESE!](./UI-Screenshots/all-users.png)
 
 ### add new user
-![CHEESE!](./UI-Screenshots\new-user.png)
+![CHEESE!](./UI-Screenshots/new-user.png)
 
 
 ## dark mode screenshot
-![CHEESE!](./UI-Screenshots\dashboard-darkmode.png)
 ![CHEESE!](./UI-Screenshots\new-user-darkmode.png)
+![CHEESE!](./UI-Screenshots\dashboard-darkmode.png)
 
 
